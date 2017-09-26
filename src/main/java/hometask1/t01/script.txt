@@ -1,0 +1,5 @@
+Компиляция
+javac -cp . src\main\java\javase01\t01\logic\Logic.java  src\main\java\javase01\t01\main\Main.java
+
+Запуск
+java -cp .   src\main\java\javase01\t01\main\Main
